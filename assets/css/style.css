@@ -78,6 +78,29 @@ body {
 .iframe {
     border-radius: 15px;
     width: 100%;
+    
+}
+.dentro {
+
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    max-width: 400px;
+    margin-inline:auto;
+      margin-top: 20px; 
+      font-family: Poppins;
+   background-color: rgb(49, 115, 117);  
+}
+
+.piedipagina {
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  max-width: 400px;
+  margin-inline:auto;
+    margin-top: 20px; 
+    font-family: Poppins;
+    
    
 }
 
